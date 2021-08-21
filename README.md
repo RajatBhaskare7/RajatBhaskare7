@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatbhaskare7" alt="rajatbhaskare7" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rajatbhaskare7" target="blank"><img src="https://img.shields.io/twitter/follow/rajatbhaskare7?logo=twitter&style=for-the-badge" alt="rajatbhaskare7" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://rajatbhaskare7.github.io/Ecell-Portfolio-1/](https://rajatbhaskare7.github.io/Ecell-Portfolio-1/)
 
