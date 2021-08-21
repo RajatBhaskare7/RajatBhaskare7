@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rajat Bhaskare</h1>
 <h2 align="center">A passionate full-stack developer and programmer from India</h2>
-<p align="center"><img src="img/logo.png"  width="900px" height="350px"/></p>
+<p align="center"><img src="img/poster.jpg"  width="900px" height="350px"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatbhaskare7&label=Profile%20views&color=0e75b6&style=flat" alt="rajatbhaskare7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatbhaskare7" alt="rajatbhaskare7" /></a> </p>
