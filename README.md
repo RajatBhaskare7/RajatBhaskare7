@@ -3,7 +3,7 @@
 <!---<p align="center"><img src="img/poster.jpg"  width="900px" height="350px"/></p>-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatbhaskare7&label=Profile%20views&color=0e75b6&style=flat" alt="rajatbhaskare7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatbhaskare7" alt="rajatbhaskare7" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatbhaskare7&theme=onedark" alt="rajatbhaskare7" /></a> </p>
 
 
 - 👨‍💻 All of my projects are available at [https://rajatbhaskare7.github.io/Ecell-Portfolio-1/](https://rajatbhaskare7.github.io/Ecell-Portfolio-1/)
