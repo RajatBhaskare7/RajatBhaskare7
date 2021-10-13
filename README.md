@@ -48,8 +48,8 @@
   <img src="https://img.shields.io/badge/Code-Django-092E20?style=flat&logo=django&logoColor=green">
   <img src="https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&color=DB7093">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90" width="180">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90&reversal=true" width="180">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90" width="90">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90&reversal=true" width="90">
    
 </p>
 
