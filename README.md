@@ -20,7 +20,7 @@
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/rajat-bhaskare-b40443202"   target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedint&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
   </a>
 
 </p>
