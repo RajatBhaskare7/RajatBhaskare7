@@ -46,7 +46,7 @@
   <br>
   
   <img src="https://img.shields.io/badge/Code-Django-092E20?style=flat&logo=django&logoColor=green">
-  <img src="https://img.shields.io/badge/Microsoft-666666?style=flat&logo=microsoft&logoColor=white">
+  <img src="https://img.shields.io/badge/Tool-Microsoft-666666?style=flat&logo=microsoft&logoColor=white">
   <br>
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90" width="90">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90&reversal=true" width="90">
