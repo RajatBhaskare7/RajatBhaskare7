@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatbhaskare7&label=Profile%20views&color=0e75b6&style=flat" alt="rajatbhaskare7" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatbhaskare7&theme=onedark" alt="rajatbhaskare7" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatbhaskare7&theme=onedark" alt="rajatbhaskare7" /></a> </p>
 
 
 - 👨‍💻 All of my projects are available at [https://rajatbhaskare.netlify.app
