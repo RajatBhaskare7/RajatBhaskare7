@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rajat Bhaskare</h1>
-<h2 align="center">A passionate Full-Stack Developer and Programmer from India</h2>
+<h2 align="center">A passionate Full-Stack Developer and Programmer From India</h2>
 
 ![header_](https://user-images.githubusercontent.com/80106274/155994781-7c22a80e-99b6-4e2e-a288-a706e1818289.png)
 
