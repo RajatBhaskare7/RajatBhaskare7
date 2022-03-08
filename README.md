@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatbhaskare7&theme=onedark" alt="rajatbhaskare7" /></a> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://rajatbhaskare.xyz
+- 👨‍💻 All of my projects are available on [https://rajatbhaskare.xyz
 ](https://rajatbhaskare.xyz/)
 
 
@@ -88,6 +88,5 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
-<br>
+
 -->
