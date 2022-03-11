@@ -20,13 +20,13 @@
 <a href="https://instagram.com/_rajat_bhaskare_" target="blank">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/rajat-bhaskare-b40443202"   target="blank">
+  <a href="https://www.linkedin.com/in/rajat-bhaskare-b40443202" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
   </a>
 
 </p>
 
-<h3 align="left">🛠 Languages and Tools:</h3>
+<h3 align="left">🛠 Languages and Tools:-</h3>
 <p align='center'>
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E">
   <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB">
