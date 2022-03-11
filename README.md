@@ -62,7 +62,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajatBhaskare7&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=22272e&langs_count=3" alt="rajatbhaskare7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RajatBhaskare7&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=22272e" alt="rajatbhaskare7" /></p>
- <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=RajatBhaskare7&theme=algolia&background=22272e&stroke=8892B0&ring=2BBB8A&fire=8892B0&border=white&&sideNums=E6F1FF&sideLabels=64FFDA&currStreakLabel=E6F1FF&dates=CCD6F6" alt="RajatBhaskare7" />
+ <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=RajatBhaskare7&theme=algolia&background=22272e&stroke=8892B0&ring=2BBB8A&fire=8892B0&border=white&&sideLabels=64FFDA&currStreakLabel=E6F1FF&dates=CCD6F6" alt="RajatBhaskare7" />
 <!--
 ## 📌 Pinned Repositories
 
