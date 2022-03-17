@@ -26,7 +26,7 @@
 
 </p>
 
-<h3 align="left">🛠 Languages and Tools:-</h3>
+<h3 align="left">🛠 Technology ,Languages and Tools:-</h3>
 <p align='center'>
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E">
   <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB">
