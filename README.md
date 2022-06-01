@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatbhaskare7&label=Profile%20views&color=0e75b6&style=flat" alt="rajatbhaskare7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatbhaskare7&theme=onedark" alt="rajatbhaskare7" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatbhaskare7&theme=onedark" alt="rajatbhaskare7"/></a> </p>
 
 
 - 👨‍💻 All of my projects are available at [https://rajatbhaskare.xyz
@@ -26,7 +26,7 @@
 
 </p>
 
-<h3 align="left">🛠 Technology ,Languages and Tools:-</h3>
+<h3 align="left">🛠 Technology ,Languages and Tools:</h3>
 <p align='center'>
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E">
   <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB">
