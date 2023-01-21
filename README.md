@@ -9,8 +9,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatbhaskare7&theme=onedark" alt="rajatbhaskare7"/></a> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://rajatbhaskare.xyz
-](https://rajatbhaskare.xyz/)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/rajatbhaskare
+](https://linktr.ee/rajatbhaskare)
 
 
 - 📫 How to reach me **rajatbhaskare@gmail.com**
