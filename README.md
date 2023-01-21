@@ -23,6 +23,9 @@
   <a href="https://www.linkedin.com/in/rajat-bhaskare-b40443202" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
   </a>
+    <a href="https://twitter.com/rajat_bhaskare" target="blank">
+  <img src="https://img.shields.io/badge/Twitter-0077B5?style=flat&logo=twitter&logoColor=white">
+  </a>
 
 </p>
 
